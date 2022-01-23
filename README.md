@@ -24,9 +24,9 @@
 
 ### Our Team Members :heart:
 
-- **[Sharoof Khan]()**
+- **[Sharoof Khan](https://github.com/Sharoof-Khan)**
 - **[Mahboob Asraf](https://github.com/mm-asraf)**
-- **[Amit Yadav]()**
+- **[Amit Yadav](https://github.com/amit9793)**
 - **[Utkarsh dalmia]()**
 
 ---
