@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+---
+# Epic Games Clone
+---
+![Epic Games](https://cdn.vox-cdn.com/thumbor/vubU7QXqJLKQDc9S07qReU-LgcU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69116403/acastro_20200818_1777_epicApple_0002.0.0.jpg)
+---
+# Welcome :wave:
+---
+### About Epic Games:
+>Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina. The company was founded by Tim Sweeney as Potomac Computer Systems in 1991, originally located in his parents' house in Potomac, Maryland. Following his first commercial video game release, ZZT (1991), the company became Epic MegaGames, Inc. in early 1992 and brought on Mark Rein, who is the company's vice president to date. Moving their headquarters to Cary in 1999, the studio's name was simplified to Epic Games.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### About this project: :raised_hands:
 
-In the project directory, you can run:
+> This is a team project, built by us in the Construct Week - Unit 5 at Masai School.
 
-### `npm start`
+---
+#### Demo Deployed link:
+- **[Checkout this deployed link]()**
+---
+ #### Project Blog: 
+- **[Checkout The  Project Blog](https://hashnode.com/post/epic-games-clone-ckyrcbhun0mojans18g2j8998)** 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Our Team Members :heart:
 
-### `npm test`
+- **[Sharoof Khan](https://github.com/Sharoof-Khan)**
+- **[Mahboob Asraf](https://github.com/mm-asraf)**
+- **[Amit Yadav](https://github.com/amit9793)**
+- **[Utkarsh dalmia]()**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### Pages & Features :point_down:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `Home Page`: Carousel Slider using setTimeout.
+- `Sign-Up Page`: User details stored to local storage.
+- `Sign-In Page`: User authentication to check whether user email and password is valid with details existing in the database.
+- `Game Category Page`: Products created dynamically, with sorting and filtering features. Used event listener to dynamically change the image on hover.
+- `Cart Page`: User can see or remove products added in the cart.
+- `Payment Page`: Users can add their payment details and also avail for discount.
+- `Additional Features` : Kept the branding, fonts, colors and favicon and titles consistent throughtout the whole site to give a feel like the original site.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### How To Use ✅
 
-### `npm run eject`
+First you have to have to go to the signup page and create a new account. Then you will be redirected to the signIn page, where you will have to Enter Your Previous Signup Details For Further Process. Use that to complete the signup process. After the signup process is completed user details are added to Database.After clicking SignIn page User will redirect to Game Page You can now go through the  page and navigate to add products(games) to the cart. After that you can proceed to the checkout page. If you are not signed in you will be redirected to the signin page where you should use the same details you used during the signup proces. Otherwise you will not be able to signup. After signin you can go to the checkout page and add your address and proceed to payment page to add your debit/credit card details to place your order successfully.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Tech Stack Used :wrench:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- `ReactJs`
+- `expressjs`
+- `Nodejs`
+- `MongoDb`
+- `Material UI Colors`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+---
+### Tools Used 🔧
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Screenshots :camera:
+- `Github`
+- `vsCode`
+- `Whatsupp`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+<h3 align="center">Thank You! For Your Time :smiley:</h3>
